@@ -1,0 +1,21 @@
+{
+  "unpublishedCollection": {
+    "name": "mysticWorks",
+    "pageId": "Personal Space",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tamount: 0,\n\tupdateAmount: (event) => {\n\t\tconsole.log(event);\n\t},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promises\n\t}\n}",
+    "variables": [
+      {
+        "name": "amount",
+        "value": "0"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Personal Space_mysticWorks",
+  "deleted": false,
+  "gitSyncId": "63b62f887ed3e86e225e21e4_63b79b24e0474e2db847b92c"
+}
