@@ -7,6 +7,10 @@
     {
       "id": "Personal Space",
       "isDefault": false
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
     }
   ],
   "viewMode": false,
